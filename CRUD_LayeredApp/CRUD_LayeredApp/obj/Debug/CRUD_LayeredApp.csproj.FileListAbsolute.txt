@@ -1,0 +1,13 @@
+C:\Users\27671\Desktop\prg272\Day 7\CRUD_LayeredApp\bin\Debug\CRUD_LayeredApp.exe.config
+C:\Users\27671\Desktop\prg272\Day 7\CRUD_LayeredApp\bin\Debug\CRUD_LayeredApp.exe
+C:\Users\27671\Desktop\prg272\Day 7\CRUD_LayeredApp\bin\Debug\CRUD_LayeredApp.pdb
+C:\Users\27671\Desktop\prg272\Day 7\CRUD_LayeredApp\obj\Debug\CRUD_LayeredApp.csproj.AssemblyReference.cache
+C:\Users\27671\Desktop\prg272\Day 7\CRUD_LayeredApp\obj\Debug\CRUD_LayeredApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\27671\Desktop\prg272\Day 7\CRUD_LayeredApp\obj\Debug\CRUD_LayeredApp.Form1.resources
+C:\Users\27671\Desktop\prg272\Day 7\CRUD_LayeredApp\obj\Debug\CRUD_LayeredApp.Presentation.DeleteStudent.resources
+C:\Users\27671\Desktop\prg272\Day 7\CRUD_LayeredApp\obj\Debug\CRUD_LayeredApp.Presentation.DisplayStudents.resources
+C:\Users\27671\Desktop\prg272\Day 7\CRUD_LayeredApp\obj\Debug\CRUD_LayeredApp.Properties.Resources.resources
+C:\Users\27671\Desktop\prg272\Day 7\CRUD_LayeredApp\obj\Debug\CRUD_LayeredApp.csproj.GenerateResource.cache
+C:\Users\27671\Desktop\prg272\Day 7\CRUD_LayeredApp\obj\Debug\CRUD_LayeredApp.csproj.CoreCompileInputs.cache
+C:\Users\27671\Desktop\prg272\Day 7\CRUD_LayeredApp\obj\Debug\CRUD_LayeredApp.exe
+C:\Users\27671\Desktop\prg272\Day 7\CRUD_LayeredApp\obj\Debug\CRUD_LayeredApp.pdb

@@ -39,7 +39,7 @@ CREATE TABLE Employee
 ID INT IDENTITY(1,1) PRIMARY KEY,
 [Name] VARCHAR(20) NOT NULL,
 LastName VARCHAR(20) NOT NULL,
-AGE INT CHECK(age BETWEEN 18 and 65), --You cannot be an employee with the age below 18 and above 65,
+AGE INT CHECK(age BETWEEN 18 and 55), --You cannot be an employee with the age below 18 and above 65,
 DateHired DATETIME DEFAULT(getdate()),
 Street VARCHAR(20),
 Suburb VARCHAR(20),

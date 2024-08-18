@@ -22,7 +22,7 @@ LOG ON
 (NAME =ClassLogData,
 FILENAME='C:\MyFolder\Data\ClassLogData.ldf',
 SIZE=1MB,
-FILEGROWTH=1%,
+FILEGROWTH=2%,
 MAXSIZE=UNLIMITED
 )
 

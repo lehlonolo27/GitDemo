@@ -63,3 +63,9 @@ QualificationID INT REFERENCES Qualification(ID),
 DateCompleted DATETIME DEFAULT(getDate())
 PRIMARY KEY(EmployeeID,QualificationID)
 )
+GO
+CREATE TABLE LoginInfo
+(
+    username VARCHAR(40) NOT NULL,
+    [password] VARCHAR(40) NOT NULL
+)

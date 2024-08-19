@@ -66,6 +66,7 @@ PRIMARY KEY(EmployeeID,QualificationID)
 GO
 CREATE TABLE LoginInfo
 (
+    LoginID INT IDENTITY(2000,1) PRIMARY KEY
     username VARCHAR(40) NOT NULL,
     [password] VARCHAR(40) NOT NULL
 )

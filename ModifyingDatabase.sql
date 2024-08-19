@@ -19,7 +19,7 @@ MODIFY FILE
 (
 NAME=NewData1,
 FILENAME='C:\MyFolder\Data\NewData1.ndf',
-FILEGROWTH=15
+FILEGROWTH=2%
 )
 
 -- Removing the File and Secondary Filegroup
